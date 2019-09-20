@@ -1,0 +1,3 @@
+# ignore node_modules
+practice03-import/npmValidator/node_modules/
+practice03-import/npmChalk/node_modules/
