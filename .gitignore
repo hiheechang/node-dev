@@ -1,3 +1,4 @@
 # ignore node_modules
-practice03-import/npmValidator/node_modules/
-practice03-import/npmChalk/node_modules/
+practice/03-import/npmValidator/node_modules/
+practice/03-import/npmChalk/node_modules/
+1-NotesApp/node_modules/
