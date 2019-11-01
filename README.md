@@ -16,3 +16,7 @@
 - before nodejs, js was only used for simple things
 - be able to use js on server side ... backend
 - non blocking IO
+
+## packages used
+- validator, chalk, fs
+- yargs : 

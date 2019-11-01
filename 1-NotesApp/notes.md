@@ -16,3 +16,5 @@ console.log(yargs.argv);
 
 ### 5 Debugging
 error : with or without error message
+
+- use console.log()
