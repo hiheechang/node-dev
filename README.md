@@ -10,13 +10,19 @@
 |        |                 | 08. accessing API                                      |
 |        |                 | 09. App deployment                                     |
 | part 3 | task manager    | authentication, database(mongodb)                      |
+|        |                 | 10. mongoDB                                            |
+|        |                 |                                                        |
+|        |                 |                                                        |
+|        |                 |                                                        |
 | part 4 | real time chat  | socket io                                              |
 
 ## intro
+
 - before nodejs, js was only used for simple things
 - be able to use js on server side ... backend
 - non blocking IO
 
 ## packages used
+
 - validator, chalk, fs
-- yargs : 
+- yargs :

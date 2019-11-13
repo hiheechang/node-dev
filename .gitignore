@@ -1,4 +1,11 @@
 # ignore node_modules
-practice/NotesApp/03-import/npmValidator/node_modules/
-practice/NotesApp/03-import/npmChalk/node_modules/
-1-NotesApp/node_modules/
+_1-NotesApp/node_modules/
+
+_2-WeatherApp/node_modules/
+
+_3-TaskApp/node_modules/
+
+03-import/npmValidator/node_modules/
+03-import/npmChalk/node_modules/
+
+
