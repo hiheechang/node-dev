@@ -15,6 +15,7 @@ console.log(yargs.argv);
 4. notes.js : add, remove
 5. arrowFunction : implement arrowFunction
 
+-. debug
 
 ## Section
 
@@ -23,3 +24,4 @@ console.log(yargs.argv);
 error : with or without error message
 
 - use console.log()
+- 

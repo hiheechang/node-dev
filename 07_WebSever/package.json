@@ -1,5 +1,5 @@
 {
-  "name": "3_TaskApp",
+  "name": "07_WebSever",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,8 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@sendgrid/mail": "^6.3.1",
-    "bcryptjs": "^2.4.3",
-    "mongodb": "^3.3.3"
+    "express": "^4.17.1",
+    "hbs": "^4.0.1"
   }
 }

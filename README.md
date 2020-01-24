@@ -24,5 +24,21 @@
 
 ## packages used
 
+### 1
 - validator, chalk, fs
 - yargs :
+
+
+### 2
+- request
+- 
+
+
+### 3
+- bcryptojs
+- mongodb
+  
+
+### 4
+- socketio
+- express
